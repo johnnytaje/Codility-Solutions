@@ -34,6 +34,6 @@ def dec2bin(A):
     D.reverse()
     return D
 
-#%% Decimal to binary
+#%% Call Main
 if __name__ == '__main__':
     main()
